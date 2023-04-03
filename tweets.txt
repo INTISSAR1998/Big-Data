@@ -1,0 +1,5 @@
+﻿"@acme Votre service client est nul"
+"@acme 30min d'attente... très insatisfait"
+"Très satisfait par un produit super !! @acme"
+"merci d'avoir RT @acme"
+"@acme produit déjà cassé, super insatisfait !"
